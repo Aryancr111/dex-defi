@@ -67,7 +67,7 @@ Decentralized automated contract verifying service.
 For the theoretical questions exploredee `theory.pdf` in the repository.
 
 ## Video Demonstration
-[Demo Video](https://youtu.be/YOUR_VIDEO_LINK_HERE)
+[Demo Video](https://www.loom.com/share/9ede065a80814f198d88ad2b9d3c5921)
 
 ## How to Interact
 1. Visit the Live UI and connect MetaMask (Sepolia network)
